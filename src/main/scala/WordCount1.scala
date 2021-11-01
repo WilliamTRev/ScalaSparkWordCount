@@ -55,4 +55,4 @@ object WordCount1 extends App{
     }
 
   }
-
+// https://dzone.com/articles/simple-word-count-program-spark-20
